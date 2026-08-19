@@ -19,6 +19,8 @@ The dataset was provided in Excel format and contains employee-related data.
 
 The Excel dataset was imported into Power BI and used to create an interactive dashboard for analyzing workforce information and comparing employee-related metrics across departments and countries.
 
+![Employee Analytics Dashboard](employee-dashboard.png)
+
 ## Key Analysis
 
 - Total number of departments
